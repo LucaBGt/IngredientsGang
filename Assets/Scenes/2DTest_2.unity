@@ -5332,6 +5332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canDashToMe: 0
   destroyAfterHit: 0
+  hit: {fileID: 58857863}
   actualCollider: {fileID: 0}
   player: {fileID: 0}
 --- !u!58 &58857865
@@ -6061,6 +6062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canDashToMe: 0
   destroyAfterHit: 0
+  hit: {fileID: 2037059378}
   actualCollider: {fileID: 0}
   player: {fileID: 0}
 --- !u!58 &722749715
@@ -18036,6 +18038,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canDashToMe: 0
   destroyAfterHit: 0
+  hit: {fileID: 1078816832}
   actualCollider: {fileID: 1327624794}
   player: {fileID: 0}
 --- !u!58 &1816533390
@@ -23552,6 +23555,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canDashToMe: 0
   destroyAfterHit: 0
+  hit: {fileID: 2037059378}
   actualCollider: {fileID: 0}
   player: {fileID: 0}
 --- !u!58 &2037059380
