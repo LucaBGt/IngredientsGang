@@ -59,8 +59,10 @@ public class DashTarget : TickBase
                 {
                     hit.Play();
                     if (destroyAfterHit)
+                    {
                         hit.transform.parent = null;
-                    Destroy(this.gameObject);
+                        Destroy(this.gameObject);
+                    }
                 }
                 else if (Vector3.Distance(player.transform.position, this.transform.position) < 1f)
                 {
